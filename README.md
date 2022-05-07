@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @dyano4ka
-- 👀 I’m interested in everything :)
-- 🌱 I’m currently learning frontend development.
-- 💞️ I’m looking to collaborate on various projects.
+- 🌱 Currently learning frontend development.
+- 💞️ Looking to collaborate on various projects.
 
 
 <!---
